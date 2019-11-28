@@ -1,0 +1,33 @@
+{
+  "name": "md-links",
+  "version": "1.0.0",
+  "description": "## Índice",
+  "main": "cli.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayaracaires/SAP003-md-links.git"
+  },
+  "keywords": [
+    "link",
+    "md"
+  ],
+  "author": "Tayara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayaracaires/SAP003-md-links/issues"
+  },
+  "homepage": "https://github.com/tayaracaires/SAP003-md-links#readme",
+   "bin": {
+        "md-links": "cli.js"
+    }
+}
