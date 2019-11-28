@@ -27,7 +27,7 @@
     "url": "https://github.com/tayaracaires/SAP003-md-links/issues"
   },
   "homepage": "https://github.com/tayaracaires/SAP003-md-links#readme",
-   "bin": {
-        "md-links": "cli.js"
-    }
+  "bin": {
+    "md-links": "cli.js"
+  }
 }
