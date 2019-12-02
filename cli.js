@@ -2,8 +2,8 @@
 
 const mdLinks = require('./lib/index.js');
 
-mdLinks()
+mdLinks('./README.md')
     .then(result => result.forEach(i => {
-        console.log(i.link, "-", i.content.substring(0, 50))
+        console.log(i.href, "-", i.text.substring(0, 50))
     }))      
     .catch(console.error)
