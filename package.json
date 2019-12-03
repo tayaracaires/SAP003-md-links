@@ -13,7 +13,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "eslint": "eslint --ext .js lib/",
+    "pretest": "npm run eslint"
   },
   "repository": {
     "type": "git",

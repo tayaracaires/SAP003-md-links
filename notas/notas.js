@@ -16,3 +16,6 @@ function mdLinks () {
 module.exports= mdLinks;
 
 // TESTE DE FUNÇÃO ASSINCRONAS!!! VER VÍDEO DO DANIEL
+// A rota está na url do git
+// inserir exemplo de uso no terminal e importando pelo JS
+// npm install tayaracaires/sap-0003...
